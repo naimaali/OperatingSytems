@@ -1,0 +1,1 @@
+Processor management. processor managemnat is one of the main fuctions of operating system. This fuction is responsible for the proces that take place in the system, alocating, processing time, exacuting the operation, as well as allowing the processor to deallocate processor when its not required. 
